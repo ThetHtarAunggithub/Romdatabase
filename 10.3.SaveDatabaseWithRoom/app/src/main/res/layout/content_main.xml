@@ -30,6 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/Name"
         android:layout_marginTop="24dp"
+        android:textStyle="italic"
         android:hint="TeamNo" />
 
     <EditText
